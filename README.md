@@ -1,4 +1,3 @@
-
 # smart-contract--using-solidity
 
 A smart contract is a self-executing agreement implemented on a blockchain platform, typically using a programming language called Solidity. Solidity is a high-level language designed specifically for writing smart contracts on the Ethereum blockchain, although it can also be used on other blockchain platforms.
